@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/staffordsmith83/example-github-package/issues"
   },
-  "homepage": "https://github.com/staffordsmith83/example-github-package#readme"
+  "homepage": "https://github.com/staffordsmith83/example-github-package#readme",
+  "publishConfig": {
+    "@staffordsmith83:registry": "https://npm.pkg.github.com"
+  }
 }
